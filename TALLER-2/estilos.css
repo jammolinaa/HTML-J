@@ -1,0 +1,35 @@
+.recuadro{
+  border: 2px solid #3a3737;
+  padding: 20px;
+  margin-left:20px;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #8b8b8b;
+  width: 200px;
+  
+}
+.recuadro2{
+    border: 2px solid #3a3737;
+    padding: 30px;
+    margin-left:20px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #8b8b8b;
+    width: 270px;
+   
+  }
+span{
+  font-style: italic;
+}
+
+.recuadro3{
+    border: 2px solid #3a3737;
+    padding: 30px;
+    margin-left:20px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #8b8b8b;
+    width: 270px;
+    font-weight: bold;
+    
+}

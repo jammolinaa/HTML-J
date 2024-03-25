@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(love.jpg);
+    background-attachment: fixed;
+}
+
+img{
+    display: block;
+}
+
+.dad{
+    display: flex;
+    justify-content: center;
+    padding: 40%;
+    margin: 1%;
+}

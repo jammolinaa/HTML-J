@@ -1,0 +1,58 @@
+.caja1{
+    background-color: orange;
+    width: 160px ; 
+    height: 150px; 
+    margin-left: 590px;
+}
+.caja2{
+    position: absolute;
+    background-color: black;
+    width: 160px;
+    height: 150px;  
+    margin-left: 750px;  
+}
+.caja3{
+    position: absolute;
+    background-color: red;
+    width: 160px;
+    height: 150px;
+    margin: 150px;
+    margin-left: 37em;
+}
+   
+.caja4{
+    position: absolute;
+    background-color: skyblue;
+    width: 160px;
+    height: 150px;
+    margin-left: 430px;
+}
+.caja5{
+    width: 160px;
+    height: 150px;
+    margin-left: 36.9em;
+}
+div .caja6{
+    position: absolute;
+    background-color: #f37fcc;
+    width: 80px;
+    height: 75px;
+    margin-top: 40px;
+    margin-left: 37.5px;
+} 
+div .caja7{
+    position: absolute;
+    background-color: green;
+    width: 80px;
+    height: 75px;
+    margin-top: 40px;
+    margin-left: 37.5px;
+}
+div .caja8{
+    position: absolute;
+    background-color: rgb(66, 60, 51);
+    width: 80px;
+    height: 75px;
+    margin-top: 40px;
+    margin-left: 37.5px;
+}

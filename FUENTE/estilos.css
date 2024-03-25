@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+.fuente{
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+    font-family: "Rochester", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.mine{
+    
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
